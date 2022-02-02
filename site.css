@@ -1,4 +1,7 @@
-gin: 0;
+/* || General setup */
+
+html, body {
+  margin: 0;
   padding: 0;
 }
 
